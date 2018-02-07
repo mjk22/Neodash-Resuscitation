@@ -1,19 +1,9 @@
-Neodash Core staging tree 1.0.0
-===============================
-
-
-
+Neodash Core staging tree 1.0.0.2.8
 What is Neodash?
-----------------
+Neodash is an experimental new digital currency that allows for anonymous, instant payments to anyone, anywhere in the world--quickly, safely and with their anonymity preserved. Neodash uses peer-to-peer technology to operate with no central regulatory or governmental authority: managing transactions and issuing money are carried out collectively by the Neodash network and the people and organizations that comprise its community. Neodash Core is the name of the open source software which enables the use of this new digital currency.
 
-Neodash is an experimental new digital currency that enables anonymous, instant
-payments to anyone, anywhere in the world. Neodash uses peer-to-peer technology
-to operate with no central authority: managing transactions and issuing money
-are carried out collectively by the network. Neodash Core is the name of the open
-source software which enables the use of this currency.
+NeoDash is a new decentralized digital currency initially developed to correct some of the imperfections of DASH. NeoDash uses a hash algorithm know as NeoScrypt, which was developed and adapted for simple miners. Neoscrypt is protected from ASIC mining helping to keep large corporate miners out and keep Satoshi's vision of "One Cpu, One Vote" alive today.
 
-NeoDash is a new decentralized digital currency. Called to correct the imperfection of DASH.
-NeoDash uses a hash algorithm NeoScrypt, adapted for simple miners. Neoscrypt is protected from ASIC.
-The indisputable advantage of NeoDash is a more cogent accrual of reward for the found block. 50% gets a miner, 
-50% receives investors Masternodes.
+The indisputable advantage of NeoDash is a more cogent accrual of reward distribution when a block is found. 50% goes to the miner, and 50% goes to the operator of the Masternode which processes the found block's transaction(s).
 
+For more information please visit: https://neodash.net
