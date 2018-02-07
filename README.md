@@ -15,7 +15,7 @@ to operate with no central regulatory or governmental authority: managing transa
 are carried out collectively by the Neodash network and the people and organizations that comprise its community. Neodash Core is the name of the open source software which enables the use of this new digital currency.
 
 NeoDash is a new decentralized digital currency initially developed to correct some of the imperfections of DASH.
-NeoDash uses a hash algorithm know as NeoScrypt, which was developed and adapted for simple miners. Neoscrypt is protected from ASIC mining helping to keep large corporate miners out and keep Satoshi's vision of "One Cpu, One Vote" alive today.
+NeoDash uses a hash algorithm know as NeoScrypt. This balances hashrate distribution and achieves true decentralization. Obviously, the original bitcoin whitepaper (https://bitcoinexchangeguide.com/what-is-bitcoin/) emphasized this quality. However, today’s bitcoin network is controlled largely by three mining companies who control millions of CPUs. Neoscrypt is protected from ASIC mining helping to keep large corporate miners out and keep Satoshi's vision of "One CPU (or GPU today), One Vote" alive today.
 
 The indisputable advantage of NeoDash is a more cogent accrual of reward distribution when a block is found. 50% goes to the miner, 
 and 50% goes to the operator of the Masternode which processes the found block's transaction(s).
